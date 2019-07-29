@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h1>ログイン画面</h1>
-	<form action="#" method="post">
+	<form action="/livela/UserLogin" method="post">
 		メールアドレス：<input type="text" name="email"><br>
 		パスワード：<input type="passwod" name="pass"><br>
 		<input type="submit" value="ログイン">
